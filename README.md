@@ -37,6 +37,5 @@ This is a basic Java program that prints a random number of asterisks (`*`) to t
 ```
 
 ## License
-```
+
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
